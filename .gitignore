@@ -1,0 +1,14 @@
+# Virtual environment
+env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Editors
+.vscode/
+.idea/
+
+# Dependency files (if applicable)
+Pipfile
+Pipfile.lock
